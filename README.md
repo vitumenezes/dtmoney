@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/demo.gif" width="60%"/>
+  <img src=".github/demo.gif" width="70%"/>
 </p>
 
 # dt money
